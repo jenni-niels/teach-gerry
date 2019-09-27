@@ -5,17 +5,19 @@ collections:
   category_pages:
     title: Categories
     output: true
-    permalink: "/teach-gerry/:title"
+    permalink: "/:title"
     layout: category
+    relative_permalinks: true
   posts:
     title: Posts
-    permalink: "/teach-gerry/posts/:title"
+    permalink: "/posts/:title"
     output: true
+    relative_permalinks: true
   uploads:
     title: Uploads
     output: true
 name: Teach Gerry
-url: https://jenni-niels.github.io/teach-gerry/
+url: https://jenni-niels.github.io/teach-gerry
 author: MGGG
 description:
   MGGG's teaching site
