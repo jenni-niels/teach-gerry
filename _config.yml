@@ -5,11 +5,11 @@ collections:
   category_pages:
     title: Categories
     output: true
-    permalink: "/:title"
+    permalink: "/teach-gerry/:title"
     layout: category
   posts:
     title: Posts
-    permalink: "/posts/:title"
+    permalink: "/teach-gerry/posts/:title"
     output: true
   uploads:
     title: Uploads
