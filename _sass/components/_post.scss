@@ -1,0 +1,46 @@
+.post {
+  margin: 3rem 0;
+}
+
+.post__metadata {
+  display: flex;
+  justify-content: flex-start;
+  line-height: 2;
+  margin: 0.5rem 0;
+}
+
+.post__authors,
+.post__date {
+  font-family: $font-sans-thin;
+  font-weight: 300;
+  color: #666;
+  letter-spacing: 0.05rem;
+}
+
+.post__authors {
+  text-transform: uppercase;
+}
+
+.post__authors::after {
+  content: "|";
+  margin: 0 1rem;
+}
+
+.post__title {
+  font-size: 1.75rem;
+  line-height: 1;
+  margin: 0.75rem 0 0.5rem;
+}
+
+@media only screen and (max-width: 700px) {
+  .post__title {
+    font-size: 1.5rem;
+    line-height: 1.25;
+  }
+}
+
+.post__image {
+  max-width: 100%;
+  max-height: 20rem;
+  overflow: hidden;
+}

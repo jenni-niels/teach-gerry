@@ -1,0 +1,27 @@
+---
+title: Teach Gerry
+timezone: UTC
+collections:
+  category_pages:
+    title: Categories
+    output: true
+    permalink: "/:title"
+    layout: category
+  posts:
+    title: Posts
+    permalink: "/posts/:title"
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+name: Teach Gerry
+url: https://jenni-niels.github.io/teach-gerry/
+author: MGGG
+description:
+  MGGG's teaching site
+plugins:
+  - jekyll-seo-tag
+sass:
+  sass_dir: _sass
+include:
+  - _redirects
