@@ -20,5 +20,5 @@ properties of those choices.
 
 The [districtr user guide](https://districtr.org/guide) details the different
 features and how to use them.  In addition, we have a
-[activity handout](/uploads/Districtr-worksheet.pdf) that highlights some of the
+[activity handout]({{ site.baseurl}}/uploads/Districtr-worksheet.pdf) that highlights some of the
 important considerations in districting, using Districtr.

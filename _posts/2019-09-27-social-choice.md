@@ -16,9 +16,9 @@ Social Choice Theory is the study of methods of incorporating many individual pr
 
 ### Resources
 
-* [Syllabus](/uploads/social_choice/syllabus.pdf)
+* [Syllabus]({{ site.baseurl}}/uploads/social_choice/syllabus.pdf)
 * Handouts
-    * [Partisan Metrics](/uploads/social_choice/handout-sample.pdf)
+    * [Partisan Metrics]({{ site.baseurl}}/uploads/social_choice/handout-sample.pdf)
     * [Apportionment](https://drive.google.com/open?id=0B_3FT3AfPdWrdzE0WVpNYUZkOHc)
 * Activities
     * [Burlington IRV Activity](https://drive.google.com/open?id=0By8yyfmYunP6d2R0Qkw0bXFnQ2c)
