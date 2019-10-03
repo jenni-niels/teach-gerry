@@ -5,6 +5,7 @@ authors: Moon Duchin
 categories:
   - lesson_plans
   - math
+  - higher_ed
 description:
   Syllabus and Handouts from Mathematics of Social Choice course.  (Voting
   Systems, Apportionment)
