@@ -18,7 +18,7 @@
   <div class="card__content">
     <h3 class="card__title card__title--featured">
       <a
-        href="{% if work.href %}{{ work.href }}{% elsif work.url %}{{
+        href="{% if work.href %}{{ work.href }}{% elsif work.url %}{{ site.baseurl}}{{
           work.url
         }}{% endif %}"
         >{% if work.short_title %}{{ work.short_title }}{% else %}{{

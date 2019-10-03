@@ -18,6 +18,7 @@ collections:
     output: true
 name: Teach Gerry
 url: https://jenni-niels.github.io/teach-gerry
+baseurl: /teach-gerry
 author: MGGG
 description:
   MGGG's teaching site

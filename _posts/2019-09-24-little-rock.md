@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Little Rock
 date: 2019-09-20 00:00:00 Z
 categories:
@@ -10,4 +10,4 @@ pdf: "/uploads/recom.pdf"
 permalink: /recom
 ---
 
-This paper ... -->
+This paper ...

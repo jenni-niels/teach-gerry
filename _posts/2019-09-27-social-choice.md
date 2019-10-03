@@ -19,10 +19,8 @@ Social Choice Theory is the study of methods of incorporating many individual pr
 * [Syllabus](/uploads/social_choice/syllabus.pdf)
 * Handouts
     * [Partisan Metrics](/uploads/social_choice/handout-sample.pdf)
-    * [Apportionment](https://drive.google.com/drive/folders/0B5zH9LR2ugmGeDVKT3ZtRHFrX1U)
+    * [Apportionment](https://drive.google.com/open?id=0B_3FT3AfPdWrdzE0WVpNYUZkOHc)
 * Activities
-    * [Burlington IRV Activity](https://drive.google.com/drive/folders/0B5zH9LR2ugmGTllwOVQ5RF85dFk)
+    * [Burlington IRV Activity](https://drive.google.com/open?id=0By8yyfmYunP6d2R0Qkw0bXFnQ2c)
 * Slides
-    * [Apportionment](https://drive.google.com/drive/folders/0B5zH9LR2ugmGeDVKT3ZtRHFrX1U)
-* Lesson Plans
-    * [Intro to Voting Systems](https://drive.google.com/drive/folders/0B5zH9LR2ugmGTllwOVQ5RF85dFk)
+    * [Apportionment](https://drive.google.com/open?id=0Bx3ozSlzaNovNkVON2tRNGk1UnM)

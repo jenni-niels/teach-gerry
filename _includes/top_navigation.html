@@ -1,10 +1,10 @@
 <header class="site-header">
   <nav class="site-nav l-center">
     <div class="site-nav__logo">
-      <a href="/">
+      <a href="{{ site.baseurl}}/">
         <img
           class="site-nav__logo__img"
-          src="/assets/logo.svg"
+          src="{{ site.baseurl}}/assets/logo.svg"
           alt="Metric Geometry and Gerrymandering Group"
         />
       </a>
@@ -20,7 +20,7 @@
         }
       </script>
       <button class="site-nav__open-btn" onclick="openNav();">
-        <img src="/assets/baseline-menu-24px.svg" class="icon" alt="Menu" />
+        <img src="{{ site.baseurl}}/assets/baseline-menu-24px.svg" class="icon" alt="Menu" />
       </button>
     </div>
     <ul id="nav-links" class="nav-links site-nav__contents">
