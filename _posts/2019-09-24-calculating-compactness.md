@@ -7,6 +7,7 @@ categories:
   - handouts
   - geography
   - gis
+  - compactness
 description:
   An introduction to computing compactness scores using QGIS.
 featured: true

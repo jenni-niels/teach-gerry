@@ -6,6 +6,8 @@ categories:
   - lesson_plans
   - handouts
   - computer_activities
+  - civil_rights
+  - social_science
 description:
     Introduction to gerrymandering through the lens of public school districts.
     Compare and contrast the de facto/de jure segregation in Boston and Little Rock,
@@ -26,5 +28,5 @@ different features of the site and how to use them.
 
 
 Resources:
-  * [Lesson Plan](https://sites.tufts.edu/teachgerry2019/files/2019/07/School-Bussing-Lesson-Plan_-Teacher-Guide.pdf)
-  * [Worksheet](https://sites.tufts.edu/teachgerry2019/files/2019/07/School-Bussing-Lesson-Plan_-Student-Version.pdf)
+* [Lesson Plan](https://sites.tufts.edu/teachgerry2019/files/2019/07/School-Bussing-Lesson-Plan_-Teacher-Guide.pdf)
+* [Worksheet](https://sites.tufts.edu/teachgerry2019/files/2019/07/School-Bussing-Lesson-Plan_-Student-Version.pdf)

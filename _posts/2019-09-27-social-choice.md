@@ -6,9 +6,10 @@ categories:
   - lesson_plans
   - math
   - higher_ed
+  - voting
+  - compactness
 description:
-  Syllabus and Handouts from Mathematics of Social Choice course.  (Voting
-  Systems, Apportionment)
+  Syllabus and Handouts from Mathematics of Social Choice course.
 featured: true
 ---
 
@@ -17,9 +18,9 @@ Social Choice Theory is the study of methods of incorporating many individual pr
 
 ### Resources
 
-* [Syllabus]({{ site.baseurl}}/uploads/social_choice/syllabus.pdf)
+* [Syllabus]({{site.baseurl}}/uploads/social_choice/syllabus.pdf)
 * Handouts
-    * [Partisan Metrics]({{ site.baseurl}}/uploads/social_choice/handout-sample.pdf)
+    * [Partisan Metrics]({{site.baseurl}}/uploads/social_choice/handout-sample.pdf)
     * [Apportionment](https://drive.google.com/open?id=0B_3FT3AfPdWrdzE0WVpNYUZkOHc)
 * Activities
     * [Burlington IRV Activity](https://drive.google.com/open?id=0By8yyfmYunP6d2R0Qkw0bXFnQ2c)
