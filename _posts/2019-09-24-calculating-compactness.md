@@ -5,9 +5,7 @@ authors: Mira Bernstein, MGGG
 categories:
   - higher_ed
   - handouts
-  - geography
-  - gis
-  - compactness
+  - social_science
 description:
   An introduction to computing compactness scores using QGIS.
 featured: true

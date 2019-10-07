@@ -6,8 +6,6 @@ categories:
   - lesson_plans
   - math
   - higher_ed
-  - voting
-  - compactness
 description:
   Syllabus and Handouts from Mathematics of Social Choice course.
 featured: true

@@ -1,7 +1,8 @@
 ---
 title: Syllabi & Lesson Plans
 key: lesson_plans
-index: 3
+index: 7
 output: true
 layout: category
+show_categories: false
 ---

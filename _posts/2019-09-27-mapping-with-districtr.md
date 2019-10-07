@@ -5,7 +5,7 @@ categories:
   - k12
   - computer_activities
   - handouts
-  - indv
+  - social_science
 description:
     Using Districtr students can explore redistricting
     in a hands-on way, where they get to draw their own plans and the resulting
@@ -21,5 +21,5 @@ properties of those choices.
 
 The [districtr user guide](https://districtr.org/guide) details the different
 features and how to use them.  In addition, we have a
-[activity handout]({{site.baseurl}}/uploads/Districtr-worksheet.pdf) that highlights some of the
-important considerations in districting, using Districtr.
+[activity handout]({{site.baseurl}}/uploads/Districtr-worksheet.pdf) that
+highlights some of the important considerations in districting, using Districtr.

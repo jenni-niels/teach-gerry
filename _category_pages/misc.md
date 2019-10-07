@@ -1,7 +1,7 @@
 ---
 title: Misc
 key: misc
-index: 6
+index: 4
 output: true
 layout: category
 ---

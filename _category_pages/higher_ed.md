@@ -1,7 +1,7 @@
 ---
 title: Higher Ed
 key: higher_ed
-index: 2
+index: 6
 output: true
 layout: category
 show_categories: false

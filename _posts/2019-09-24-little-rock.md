@@ -6,7 +6,6 @@ categories:
   - lesson_plans
   - handouts
   - computer_activities
-  - civil_rights
   - social_science
 description:
     Introduction to gerrymandering through the lens of public school districts.

@@ -1,7 +1,7 @@
-- name: Get Started
-  href: /start
 - name: Materials
   href: /materials
+- name: I'm a Student
+  href: /student
 - name: Districtr
   href: http://districtr.org
 - name: About MGGG
