@@ -4,7 +4,7 @@ nav: true
 order: 1
 ---
 
-# Where to Start?
+## Where to Start?
 
 This website is designed to help K-12 and higher ed educators teach about
 gerrymandering and redistricting. The site is maintained by MGGG, a team of
