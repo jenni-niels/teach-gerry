@@ -4,6 +4,7 @@ date: 2019-10-31 00:00:00 Z
 categories:
   - lesson_plans
   - math
+  - social_science
   - higher_ed
 description:
     Course resources for The History of Voting in the USA course. 
