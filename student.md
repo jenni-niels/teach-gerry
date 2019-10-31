@@ -19,7 +19,7 @@ check out our other materials in [math]({{site.baseurl}}/math),
 * [Politics Podcast: Can Statistics Solve Gerrymandering? --- FiveThirtyEight](https://fivethirtyeight.com/features/politics-podcast-can-statistics-solve-partisan-gerrymandering/)
 * [Who’s Gerry and Why Is He So Bad at Drawing Maps? --- More Perfect](https://www.wnycstudios.org/podcasts/radiolabmoreperfect/episodes/whos-gerry-and-why-he-so-bad-drawing-maps)
 
-## Videos
+## Videos:
 
 * [August 2017 conference videos](https://www.youtube.com/playlist?list=PLr7G5jnVFYLiTpEiQkQB_FyQ372oSO8Au)
     * [Kristen Clarke](https://www.youtube.com/watch?v=CktwjlcBDH4&list=PLr7G5jnVFYLiTpEiQkQB_FyQ372oSO8Au&index=4&t=0s)
