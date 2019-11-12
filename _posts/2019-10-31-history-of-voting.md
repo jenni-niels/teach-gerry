@@ -18,6 +18,5 @@ featured: true
 * [Syllabus]({{site.baseurl}}/uploads/voting_history/United_States_Voting__The_History_and_Mathematics_behind_our_Democracy.pdf)
 * [Slides: Intro and History of Redistricting]({{site.baseurl}}/uploads/voting_history/Intro_and_History__Redistricting_in_USA(ShareableCopy).pdf)
 * **Example Student Work**:
-    * [Paper]({{site.baseurl}}/uploads/voting_history/gerrymander_paper.pdf)
-    * [Slides]({{site.baseurl}}/uploads/voting_history/CopyofGerrymanderingpresentation.pdf)
+    * [(Slides) Sarah Balenko - Anlaysis of gerrymandering in Ohio using metric geometry]({{site.baseurl}}/uploads/voting_history/CopyofGerrymanderingpresentation.pdf)
 * [Secondary mathematics topic with applications in redistricting]({{site.baseurl}}/uploads/voting_history/SecondaryMathematicsTopicsinwhichRedistrictingConceptsCouldConnectIdeas.pdf)

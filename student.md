@@ -11,7 +11,7 @@ gerrymandering? You’ve come to the right place! We’ve compiled some articles
 videos that we think provide a good introduction to the subject. Feel free to 
 check out our other materials in [math]({{site.baseurl}}/math), 
 [social science]({{site.baseurl}}/social_science) and 
-[computer activities]({{site.baseurl}}/computer_activites) too.
+[computer activities]({{site.baseurl}}/computer_activites) as well.
 
 
 ## Podcasts:

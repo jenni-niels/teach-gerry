@@ -7,12 +7,12 @@
 
   margin-top: 3rem;
 
-  background-color: black;
+  background-color: $mggg-dark-blue; //black;
 }
 
 .site-footer a,
 .site-footer a:visited {
-  color: $mggg-blue;
+  color: $light-grey;
   font-weight: normal;
 }
 
@@ -41,7 +41,7 @@
 }
 
 .site-footer__copyright {
-  color: #aaa;
+  color: $dark-grey;
 }
 
 .site-footer__hr {

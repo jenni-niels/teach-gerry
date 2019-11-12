@@ -14,4 +14,5 @@ featured: true
 
 ## Resources
 * [Activity handout]({{site.baseurl}}/uploads/squaretopia/CompactnessMeasuresForRedistricting.pdf)
-* [Squaretopia Challenges]({{site.baseurl}}/uploads/squaretopia/Squaretopia.pdf)
+* [Squaretopia challenges]({{site.baseurl}}/uploads/squaretopia/Squaretopia.pdf)
+* [Slides on compactness metrics]({{site.baseurl}}/uploads/squaretopia/CompactnessMetricsSummary.pdf)
