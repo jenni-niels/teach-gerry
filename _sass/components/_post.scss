@@ -17,27 +17,6 @@
   letter-spacing: 0.05rem;
 }
 
-.post__tag {
-  font-family: $font-sans-thin;
-  font-weight: 300;
-  background: rgba($mggg-blue, 0.15);
-  color: $mggg-very-dark-blue;
-  letter-spacing: 0.05rem;
-  padding: 0 .5rem;
-  margin-right: .5rem;
-  border-radius: 4px;
-  &:hover {
-    text-decoration: none;
-    background: $mggg-dark-blue;
-    color: #fff;
-  }
-}
-
-//.post__tag::after {
-//  content: "";
-//  margin: 1 1rem; 
-//}
-
 .post__authors {
   text-transform: uppercase;
 }
@@ -71,3 +50,39 @@
   max-height: 20rem;
   overflow: hidden;
 }
+
+.post__tag {
+  display: inline-block;
+  background: rgba($mggg-blue, 0.15);
+  padding: 0 .5rem;
+  margin-right: .5rem;
+  border-radius: 4px;
+  color: $mggg-very-dark-blue;
+  font-family: $font-sans-thin;
+  font-size: 90%;
+
+  &:hover {
+    text-decoration: none;
+    background: $mggg-dark-blue;
+    color: #fff;
+  }
+}
+
+.tags-expo {
+  :target:before {
+    content:"";
+    display:block;
+  }
+  .tags-expo-list {
+    @media (min-width: 38em) {
+      font-size: 0.9rem;
+    }
+  }
+}
+.postdate {
+      display: inline-block;
+      //font-size: 80%;
+      color: #666;
+      margin: 0;
+      padding: 0;
+    }
