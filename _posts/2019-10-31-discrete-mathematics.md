@@ -4,7 +4,7 @@ date: 2019-10-31 00:00:00 Z
 authors: Diana Davis
 categories:
   - math
-tags: [lesson-plans, higher-ed]
+tags: [syllabus, lesson-plans, higher-ed]
 description:
   Syllabus, course map, and example problems from Discrete Mathematics course.
   Also guide on writing a problem based curriculum.

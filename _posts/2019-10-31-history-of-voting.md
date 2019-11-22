@@ -4,7 +4,7 @@ date: 2019-10-31 00:00:00 Z
 categories:
   - math
   - social_science
-tags: [lesson-plans, higher-ed]
+tags: [lesson-plans, higher-ed, syllabus]
 description:
     Course resources for The History of Voting in the USA course. 
     (Syllabus, slides, and example student work)  In addition, a list of ideas 

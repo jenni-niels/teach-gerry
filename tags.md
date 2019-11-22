@@ -33,19 +33,16 @@ Here we generate all the tags.
 
 <p></p> 
 
-<div class="tags-expo"></div>
+<div class="tags-expo">
 <!-- List all tags -->
 <div class="tags-expo-list">
   {% for tag in tags %}
-  <a href="#{{ tag | slugify }}" class="post__tag"> {{ tag }} </a> &nbsp;
+  <a href="#{{ tag | slugify }}" class="post__tag"> {{ tag }} </a>
   {% endfor %}
 </div>
 
 
 <!-- List posts under each tag-->
-<!-- <div class="tags-expo-section"> -->
-
-
 {% for tag in tags %}
 <h2 id="{{ tag | slugify }}">{{ tag }}</h2>
 <ul>
@@ -66,4 +63,4 @@ Here we generate all the tags.
   {% endfor %}
 </ul>
 {% endfor %}
-<!-- </div> -->
+</div>

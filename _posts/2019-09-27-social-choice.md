@@ -4,7 +4,7 @@ date: 2019-09-20 00:00:00 Z
 authors: Moon Duchin
 categories:
   - math
-tags: [lesson-plans, higher-ed, handouts, slides]
+tags: [syllabus, higher-ed, handouts, slides]
 description:
   Syllabus and Handouts from Mathematics of Social Choice course.
 featured: true

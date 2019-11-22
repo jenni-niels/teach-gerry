@@ -4,6 +4,7 @@
 
 .post__metadata {
   display: flex;
+  flex-wrap: wrap;
   justify-content: flex-start;
   line-height: 2;
   margin: 0.5rem 0;
@@ -75,13 +76,13 @@
   }
   .tags-expo-list {
     @media (min-width: 38em) {
-      font-size: 0.9rem;
+      font-size: 1rem;
     }
   }
 }
 .postdate {
       display: inline-block;
-      //font-size: 80%;
+      font-size: 75%;
       color: #666;
       margin: 0;
       padding: 0;
