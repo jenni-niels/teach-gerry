@@ -2,9 +2,8 @@
 title: Compactness Measures for Redistricting
 date: 2019-10-31 00:00:00 Z
 categories:
-  - handouts
   - math
-  - geometry
+tags: [handouts, geometry, compactness]
 description:
     Geometry of Redistricting -- Activity handout and student challenges
     introducing and exploring different compactness measures.

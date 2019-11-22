@@ -2,10 +2,9 @@
 title: Mapping with Districtr
 date: 2019-09-27 00:00:00 Z
 categories:
-  - k12
   - computer_activities
-  - handouts
   - social_science
+tags: [k12, handouts]
 description:
     Using Districtr students can explore redistricting
     in a hands-on way, where they get to draw their own plans and the resulting

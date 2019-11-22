@@ -6,6 +6,11 @@
     {{ page.date | date_to_long_string }}
   </div>
   {% endif %}
+  {% if page.tags %} 
+  {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tags#{{ tag | slugify }}" class="post__tag">{{ tag }}</a>
+  {% endfor %}
+  {% endif %}
 </div>
 {% if page.image %}
 <figure class="post__image">

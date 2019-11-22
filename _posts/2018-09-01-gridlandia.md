@@ -5,6 +5,7 @@ authors: Zachary I. Schutzman and MGGG
 categories:
   - computer_activities
   - math
+tags: [mcmc, combinatorics]
 description:
   An interactive overview of the combinatorics of redistricting and the
   principles of Markov chain Monte Carlo (MCMC).

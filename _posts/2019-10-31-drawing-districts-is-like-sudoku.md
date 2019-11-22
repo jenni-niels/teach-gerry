@@ -2,9 +2,8 @@
 title: Drawing Congressional Districts Is Like Sudoku
 date: 2019-10-31 00:00:00 Z
 categories:
-  - k12
-  - handouts
   - math
+tags: [k12, handouts]
 description:
     These redistricting puzzles are kind of like Sudoku. They’re also a lot like
     the political practice of gerrymandering. Have fun.

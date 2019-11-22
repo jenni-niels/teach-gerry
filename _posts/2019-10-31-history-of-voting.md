@@ -2,10 +2,9 @@
 title: The History of Voting in the USA
 date: 2019-10-31 00:00:00 Z
 categories:
-  - lesson_plans
   - math
   - social_science
-  - higher_ed
+tags: [lesson-plans, higher-ed]
 description:
     Course resources for The History of Voting in the USA course. 
     (Syllabus, slides, and example student work)  In addition, a list of ideas 

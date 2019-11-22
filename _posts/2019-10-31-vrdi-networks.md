@@ -5,6 +5,7 @@ categories:
   - handouts
   - math
   - higher_ed
+tags: [handouts, higher-ed, networks, vrdi]
 description:
     Handouts from Networks Breakout at VRDI 2019.
 authors: MGGG

@@ -2,11 +2,9 @@
 title: School Segregation
 date: 2019-10-03 00:00:00 Z
 categories:
-  - k12
-  - lesson_plans
-  - handouts
   - computer_activities
   - social_science
+tags: [k12, lesson-plans, handouts]
 description:
     Introduction to gerrymandering through the lens of public school districts.
     Compare and contrast the de facto/de jure segregation in Boston and Little Rock,

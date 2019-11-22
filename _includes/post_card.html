@@ -30,6 +30,11 @@
     <div class="post__metadata">
       <div class="post__authors">{{ work.authors }}</div>
       <div class="post__date">{{ work.date | date_to_long_string }}</div>
+      {% if work.tags %} 
+        {% for tag in work.tags %}
+          <a href="{{ site.baseurl }}/tags#{{ tag | slugify }}" class="post__tag">{{ tag }}</a>
+        {% endfor %}
+      {% endif %}
     </div>
     {% endif %}
     {% if work.description %}

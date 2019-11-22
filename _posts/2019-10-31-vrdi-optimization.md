@@ -2,9 +2,8 @@
 title: Optimization Handouts
 date: 2019-10-31 00:00:00 Z
 categories:
-  - handouts
   - math
-  - higher_ed
+tags: [handouts, higher-ed, optimization, vrdi]
 description:
     Handouts from Optimization Breakout at VRDI 2019.
 authors: MGGG

@@ -10,12 +10,33 @@
 }
 
 .post__authors,
-.post__date {
+.post__date{
   font-family: $font-sans-thin;
   font-weight: 300;
   color: #666;
   letter-spacing: 0.05rem;
 }
+
+.post__tag {
+  font-family: $font-sans-thin;
+  font-weight: 300;
+  background: rgba($mggg-blue, 0.15);
+  color: $mggg-very-dark-blue;
+  letter-spacing: 0.05rem;
+  padding: 0 .5rem;
+  margin-right: .5rem;
+  border-radius: 4px;
+  &:hover {
+    text-decoration: none;
+    background: $mggg-dark-blue;
+    color: #fff;
+  }
+}
+
+//.post__tag::after {
+//  content: "";
+//  margin: 1 1rem; 
+//}
 
 .post__authors {
   text-transform: uppercase;
@@ -25,6 +46,12 @@
   content: "|";
   margin: 0 1rem;
 }
+
+.post__date::after {
+  content: "|";
+  margin: 0 1rem; 
+}
+
 
 .post__title {
   font-size: 1.75rem;

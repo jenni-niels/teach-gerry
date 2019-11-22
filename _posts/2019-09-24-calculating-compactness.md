@@ -3,9 +3,8 @@ title: Calculating Compactness using QGIS
 date: 2019-09-20 00:00:00 Z
 authors: Mira Bernstein, MGGG
 categories:
-  - higher_ed
-  - handouts
   - social_science
+tags: [handouts, higher-ed, compactness]
 description:
   An introduction to computing compactness scores using QGIS.
 featured: true
