@@ -4,12 +4,12 @@ date: 2019-10-03 00:00:00 Z
 categories:
   - computer_activities
   - social_science
-tags: [k12, lesson-plans, handouts, school-segregation]
+tags: [k12, lesson-plans, handouts]
 description:
     Introduction to gerrymandering through the lens of public school districts.
     Compare and contrast the de facto/de jure segregation in Boston and Little Rock,
     and contextualize historical school segregation with 2017 case in Little Rock.
-authors: MGGG
+authors: Jane Hood and Cleveland Waddell
 featured: true
 ---
 

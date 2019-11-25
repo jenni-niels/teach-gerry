@@ -9,7 +9,7 @@ description:
     Using Districtr students can explore redistricting
     in a hands-on way, where they get to draw their own plans and the resulting
     properties of those choices. 
-authors: MGGG
+authors: Chris Gernon and Muniba Khan
 featured: true
 image: "/uploads/Population_tab.gif"
 ---

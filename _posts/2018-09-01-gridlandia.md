@@ -1,7 +1,7 @@
 ---
 title: Redistricting Gridlandia
 date: 2018-09-01 00:00:00 Z
-authors: Zachary I. Schutzman and MGGG
+authors: Zachary Schutzman and MGGG
 categories:
   - computer_activities
   - math

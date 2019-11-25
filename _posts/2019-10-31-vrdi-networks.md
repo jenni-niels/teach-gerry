@@ -8,7 +8,8 @@ categories:
 tags: [handouts, higher-ed, networks, vrdi]
 description:
     Handouts from Networks Breakout at VRDI 2019.
-authors: MGGG
+authors: Daryl DeFord
+image: "uploads/networks.gif"
 ---
 
 These handouts/resources are from the VRDI 2019 networks breakout sessions.

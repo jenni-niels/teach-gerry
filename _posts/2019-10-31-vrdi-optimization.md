@@ -6,7 +6,7 @@ categories:
 tags: [handouts, higher-ed, optimization, vrdi]
 description:
     Handouts from Optimization Breakout at VRDI 2019.
-authors: MGGG
+authors: Austin Buchanan, Sarah Cannon, Zachary Schutzman, and Justin Solomon
 ---
 
 These handouts are from the VRDI 2019 optimization breakout sessions.

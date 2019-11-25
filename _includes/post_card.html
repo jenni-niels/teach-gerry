@@ -1,11 +1,10 @@
 {% assign work = include.work %}
 <li class="card">
-  {% if work.featured and work.image %}
+  {% if work.image %}
   <a
     class="card__image-link"
-    href="{% if work.href %}{{ work.href }}{% elsif work.url %}{{
-      work.url
-    }}{% endif %}"
+    href="{% if work.href %}{{ work.href }}{% elsif work.url %}{{ site.baseurl}}{{
+      work.url}}{% endif %}"
   >
     <img
       class="card__image"
