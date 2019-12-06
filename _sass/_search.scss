@@ -1,5 +1,4 @@
 search-container {
-    //display: block;
     flex: none;
 }
 
@@ -7,14 +6,10 @@ input[id="search-input"] {
     display: block;
     width: 100%;
     max-width: 450px;
-    //flex-basis: 100%;
-    //flex-grow: 0;
-    //flex-shrink: 0;
     padding: 0.5em 0.75em;
     border-radius: 4px;
 }
 
 ul[id="results-container"] {
     line-height:250%;
-    width: 100%
 }
