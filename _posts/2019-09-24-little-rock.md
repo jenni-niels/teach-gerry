@@ -10,6 +10,7 @@ description:
     Compare and contrast the de facto/de jure segregation in Boston and Little Rock,
     and contextualize historical school segregation with 2017 case in Little Rock.
 authors: Jane Hood and Cleveland Waddell
+image: "uploads/little_rock.jpg"
 featured: true
 ---
 

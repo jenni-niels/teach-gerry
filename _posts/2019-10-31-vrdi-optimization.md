@@ -5,11 +5,12 @@ categories:
   - math
 tags: [handouts, higher-ed, optimization, vrdi]
 description:
-    Handouts from Optimization Breakout at VRDI 2019.
+    Handouts from the breakout sessions on Optimization at VRDI, 2019.
 authors: Austin Buchanan, Sarah Cannon, Zachary Schutzman, and Justin Solomon
 ---
 
-These handouts are from the VRDI 2019 optimization breakout sessions.
+Handouts from the breakout sessions on Optimization at VRDI, 2019.
+
 
 ## Handouts:
 * [Day 1: Greedy Algorithms](https://sites.tufts.edu/vrdi/files/2019/06/Opt-Day-1.pdf)
