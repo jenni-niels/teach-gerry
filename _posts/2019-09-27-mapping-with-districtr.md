@@ -6,19 +6,13 @@ categories:
   - social_science
 tags: [k12, handouts]
 description:
-    Using Districtr students can explore redistricting
-    in a hands-on way, where they get to draw their own plans and the resulting
-    properties of those choices. 
+    This 30-60 minute lesson provides a hands-on introduction to gerrymandering through Districtr. Students get to draw their own plans of Congressional Districts in Massachusetts and study their properties in terms of population balance and minority populations. The lesson also includes several questions about rules for districting that can be answered with independent or group research.
 authors: Chris Gernon and Muniba Khan
 featured: true
 image: "/uploads/Population_tab.gif"
 ---
+This 30-60 minute [lesson]({{site.baseurl}}/uploads/Districtr-worksheet.pdf) provides a hands-on introduction to gerrymandering through [Districtr](https://www.districtr.org). Students get to draw their own plans of Congressional Districts in Massachusetts and study their properties in terms of population balance and minority populations. The lesson also includes several questions about rules for districting that can be answered with independent or group research.
 
-Using [Districtr](https://www.districtr.org) students can explore redistricting
-in a hands-on way, where they get to draw their own plans and the resulting
-properties of those choices.
+This lesson can be adopted to any other state included in Districtr. 
 
-The [districtr user guide](https://districtr.org/guide) details the different
-features and how to use them.  In addition, we have a
-[activity handout]({{site.baseurl}}/uploads/Districtr-worksheet.pdf) that
-highlights some of the important considerations in districting, using Districtr.
+The [districtr user guide](https://districtr.org/guide) walks users through ways to use Districtr. It may be a helpful supplemental resource, or it may be used on its own for more open-ended exploration of districting.
