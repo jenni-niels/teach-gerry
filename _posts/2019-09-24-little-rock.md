@@ -6,25 +6,16 @@ categories:
   - social_science
 tags: [k12, lesson-plans, handouts]
 description:
-    Introduction to gerrymandering through the lens of public school districts.
-    Compare and contrast the de facto/de jure segregation in Boston and Little Rock,
-    and contextualize historical school segregation with 2017 case in Little Rock.
-authors: Jane Hood and Cleveland Waddell
+    This 1 hour lesson introduces students to gerrymandering through the lenses of public school districts. Students will compare and contrast the de facto/de jure segregation in Boston and Little Rock. Then, they compare historical school segregation with the case of the 2017 Little Rock school district plan.
 image: "uploads/little_rock.jpg"
 featured: true
 ---
 
-Introduce student to gerrymandering through the lens of public school districts.
-Students will compare and contrast the de facto/de jure segregation in Boston
-and Little Rock, and then contextualize historical school segregation with 2017
-case in Little Rock.
+This 1 hour lesson introduces students to gerrymandering through the lenses of public school districts. Students will compare and contrast the de facto/de jure segregation in Boston and Little Rock. Then, they compare historical school segregation with the case of the 2017 Little Rock school district plan.
 
-In reflection, students can build their own school districting maps using the 
-[Little Rock module](https://districtr.org/new/ar) in Districtr.
-The [districtr user guide](https://districtr.org/guide) goes through the 
-different features of the site and how to use them.
-
+The [Districtr user guide](https://districtr.org/guide) may be a helpful supplemental resource for addressing questions or for students who want to further explore the challenges of making district maps and addressing gerrymandering. 
 
 Resources:
+* [Little Rock Districtr module](https://districtr.org/new/ar)
 * [Lesson Plan](https://sites.tufts.edu/teachgerry2019/files/2019/07/School-Bussing-Lesson-Plan_-Teacher-Guide.pdf)
 * [Worksheet](https://sites.tufts.edu/teachgerry2019/files/2019/07/School-Bussing-Lesson-Plan_-Student-Version.pdf)
