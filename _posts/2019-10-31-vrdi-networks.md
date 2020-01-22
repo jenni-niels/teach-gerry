@@ -6,13 +6,14 @@ categories:
   - math
   - higher_ed
 tags: [handouts, higher-ed, networks, vrdi]
-description:
-    Materials from Networks Breakout at VRDI 2019.
+<!-- description: -->
 authors: Daryl DeFord
 image: "uploads/networks.gif"
 ---
 
-Materials from the breakout session on networks from the VRDI 2019.
+What's the difference between graphs and networks?  How do can we use networks to model systems, and what questions does this help us answer?  How can we use networks to think about census data and redistricting?  This post contain a series of two-hour lesson plans on metrics and measures, null models, clustering, and network dynamics, in the context of applications to redistricting.  No prior exposure to network theory is required, although some exposure to graph theory is assumed.
+
+These materials were developed for the 2019 [Voting Rights Data Institute](https://gerrydata.org). Each day can be taught as a two hour lesson or they can be combined.
 
 ## Resources:
 * **Handouts**:
