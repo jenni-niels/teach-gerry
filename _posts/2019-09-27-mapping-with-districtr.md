@@ -4,7 +4,7 @@ date: 2019-09-27 00:00:00 Z
 categories:
   - computer_activities
   - social_science
-tags: [k12, handouts]
+tags: [handouts, middle-school, high-school]
 description:
     This 30-60 minute lesson provides a hands-on introduction to gerrymandering through Districtr. Students get to draw their own plans of Congressional Districts in Massachusetts and study their properties in terms of population balance and minority populations. The lesson also includes several questions about rules for districting that can be answered with independent or group research.
 authors: Chris Gernon and Muniba Khan

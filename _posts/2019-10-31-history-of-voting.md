@@ -4,14 +4,18 @@ date: 2019-10-31 00:00:00 Z
 categories:
   - math
   - social_science
-tags: [lesson-plans, higher-ed, syllabus]
+tags: [course-resources, lesson-plans, syllabus]
 description:
-    Course resources for The History of Voting in the USA course. 
-    (Syllabus, slides, and example student work)  In addition, a list of ideas 
-    of secondary mathematics topics with redistricting applications.
+    Course resources for Nikki Kennedy's History of Voting in the USA course. 
+    These resources contain a syllabus, slides, and example student work. as well as
+    a list of ideas of secondary mathematics topics with redistricting applications.
 authors: Nikki Kennedy
 featured: true
 ---
+
+Course resources for Nikki Kennedy's History of Voting in the USA course.
+These resources contain a syllabus, slides, and example student work. as well as
+a list of ideas of secondary mathematics topics with redistricting applications.
 
 ## Resources
 * [Syllabus]({{site.baseurl}}/uploads/voting_history/United_States_Voting__The_History_and_Mathematics_behind_our_Democracy.pdf)
